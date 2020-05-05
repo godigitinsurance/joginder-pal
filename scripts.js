@@ -3,7 +3,6 @@ $("#policyNumber").text("LI92019620");
 $("#startDate").text("05-May-2020");
 $("#endDate").text("04-May-2021");
 
-
 $("#type").text("Two Wheeler");
 $("#registrationNumber").text("PB09P4437");
 $("#make").text("HONDA");
